@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi Everyone👋, I'm Nilson Barboza Araya</h1>
-<h3 align="center">A passionate Full-Stack developer from Costa Rica</h3>
+<h3 align="center">A passionate Front-End developer from Costa Rica</h3>
 
 ## About me
 ```javascript
 const Nilson = {
   skills: [HTML, CSS, JS],
-  tools: [VSCode, Postman, Github, VisualStudio], 
+  tools: [VSCode, Postman, Github, VisualStudio,Axure], 
   challenge: "I am learning differente technologies to build projects",
   email: "arayanilson1883@gmail.com",
   funFact: "I like video games and play soccer",
@@ -25,7 +25,7 @@ const Nilson = {
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <img src="https://devicons.github.io/devicon/devicon.gi/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> 
- <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sqlserver" width="80" height="80"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sqlserver" width="80" height="80"/>
 </p>
 
 ## Things I´m Learning
