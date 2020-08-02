@@ -5,10 +5,9 @@
 ## About me
 ```javascript
 const Nilson = {
-  skills: [HTML, CSS, JS],
   tools: [VSCode, Postman, Github, VisualStudio,Axure], 
   challenge: "I am learning differente technologies to build projects",
-  email: "arayanilson1883@gmail.com",
+  email: "arayanilson1993@gmail.com",
   funFact: "I like video games and play soccer",
   portfolio: In Progress....
 }
@@ -35,7 +34,8 @@ const Nilson = {
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="80"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="80" height="80"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
 </p>
@@ -47,8 +47,8 @@ const Nilson = {
 
 ## Where To find me
 <p align="center">
-<a href="https://linkedin.com/in/nilson-barboza-araya-4a98a5a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilson-barboza-araya-4a98a5a5" height="60" width="20" /></a>
-<a href="https://stackoverflow.com/users/nilson-barboza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nilson-barboza" height="20" width="20" /></a>
-<a href="https://fb.com/nino.barbozaaraya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nino.barbozaaraya" height="20" width="20" /></a>
-<a href="https://instagram.com/nil_barboza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nil_barboza" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/nilson-barboza-araya-4a98a5a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nilson-barboza-araya-4a98a5a5" height="80" width="80" /></a>
+<a href="https://stackoverflow.com/users/nilson-barboza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nilson-barboza" height="80" width="80" /></a>
+<a href="https://fb.com/nino.barbozaaraya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nino.barbozaaraya" height="80" width="80"/></a>
+<a href="https://instagram.com/nil_barboza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nil_barboza" height="80" width="80" /></a>
 </p>
