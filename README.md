@@ -24,14 +24,14 @@ const Nilson = {
 <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-<img src="https://devicons.github.io/devicon/devicon.gi/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> 
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sqlserver" width="80" height="80"/>
 </p>
 
 ## Things I´m Learning
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svgg" alt="react" width="80" height="80"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> 
